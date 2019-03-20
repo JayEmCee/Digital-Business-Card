@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:McGinnis;Jerron;;;
+FN: Jerron McGinnis
+ORG:GE Digital;
+TITLE:Lifecycle Operations Specialist
+EMAIL;type=INTERNET;type=WORK;type=pref:jerron.mcginnis@gmail.com
+TEL;type=WORK;type=VOICE:678 600 7867
+item1.ADR;type=WORK;type=pref:;;3475 Piedmont Road\nAtlanta\, Georgia;;;30005;
+item1.X-ABADR:sg
+item2.URL;type=pref:gmail.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
