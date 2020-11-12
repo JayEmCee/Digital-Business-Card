@@ -4,6 +4,7 @@
 Simple application that acts as a digital business card. 
 Contains contact info including phone, website, and email address.
 Allows user to directly download vcf file to phone to import information to a users Contacts.
+Built using HTML & CSS.
   
 # Links
 <h3> Repo: https://github.com/JerronM/Digital-Business-Card/</h3>
